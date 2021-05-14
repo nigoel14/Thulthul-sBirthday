@@ -1,0 +1,84 @@
+.a{
+    position: relative;
+    top:300px
+    
+}
+.s{
+    position: relative;
+    top:300px
+    
+}
+
+.n{
+    width: 400px;
+    position: relative;
+    top:300px;
+    right:200px;
+    left:450px;
+    bottom: 600px;
+}
+.l{
+    position: relative;
+    top:300px;
+left: 150px;}
+.k{
+    position: relative;
+    top:300px;
+    left:970px;
+    }
+.o{
+    position: relative;
+    top: 300px;
+    right: 660px;
+}
+.h1{
+    font-style: italic;
+    font-family: fantasy;
+}
+.gift{
+color: whitesmoke;
+position: relative;
+top: 300px;
+left:490px;
+}
+
+.dj{
+    color: whitesmoke;
+    position: relative;
+    top: 0px;
+    left:275px;
+    }
+.rk{
+    color: whitesmoke;
+    position: relative;
+    bottom: 620px;
+    left:1510px;
+
+}
+.xy{
+    color: whitesmoke;
+    position: relative;
+    top:0px;
+    left:1200px;
+
+}
+.radha{
+    color: whitesmoke;
+    position: relative;
+    top:300px;
+    right:450px;
+}
+.smart{
+    color: whitesmoke;
+    position: relative;
+    top:300px;
+    right:200px;
+}
+.last{
+    color: whitesmoke;
+    position: relative;
+    right:00px;
+    left: 1250px;
+    bottom:10px;
+
+}
